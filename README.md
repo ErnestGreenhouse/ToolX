@@ -13,3 +13,5 @@ Integrantes:
 -Reyes Trujillano Fabian Alonso 
 -Silva Morales Renzo Cesar
 -Fátima Andrea Asmad Padilla 
+
+Tode El codigo con sus respectivas Carpetas bien organizadas esta en el landing page.zip
